@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/Teams_Messaging_BOT/v16
+/src/Teams_Messaging_BOT/bin/Debug
+/src/Teams_Messaging_BOT/obj
