@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31829.152
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teams_Messaging_BOT", "Teams_Messaging_BOT\Teams_Messaging_BOT.csproj", "{98DFCFA4-4497-422B-AEF1-F1645686DCE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teams_Messaging_BOT_Core", "Teams_Messaging_BOT_Core\Teams_Messaging_BOT_Core.csproj", "{698A16C2-9917-47E7-8FFC-671307ABBAF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{98DFCFA4-4497-422B-AEF1-F1645686DCE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DFCFA4-4497-422B-AEF1-F1645686DCE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DFCFA4-4497-422B-AEF1-F1645686DCE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698A16C2-9917-47E7-8FFC-671307ABBAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698A16C2-9917-47E7-8FFC-671307ABBAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698A16C2-9917-47E7-8FFC-671307ABBAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698A16C2-9917-47E7-8FFC-671307ABBAF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
