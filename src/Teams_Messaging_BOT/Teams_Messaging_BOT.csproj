@@ -113,6 +113,8 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="SampleFiles\TestMessage - Channel.message" />
+    <None Include="SampleFiles\TestMessage - Chat.message" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
